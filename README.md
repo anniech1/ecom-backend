@@ -14,6 +14,9 @@ This project utilizes Express.js, Sequelize, and a MySQL database in order to ac
 
 ## Installation
 In order to install this project, run npm install mysql2, npm install sequelize, and npm install dotenv. In the mysql shell, run source db/schema.sql, quit, npm run seed, and npm start.
+My demo of the MySQL shell, seeding data, launching the server, and all of the API routes is link below:
+https://drive.google.com/file/d/1nQ6LISLb86ps7NrcrUHrehdAQcIITUie/view
+
 
 ## Usage
 To use, enter the URL of your get, post, put, and delete requests in Insomnia.
