@@ -30,6 +30,5 @@ There are no tests associated with the project at this moment.
 
 ## Questions
 Have any questions?
-github.com/anniech1  
-Additional questions can be sent to the following                
+github.com/anniech1               
     
